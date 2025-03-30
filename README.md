@@ -55,7 +55,7 @@ $ npm run start
     - Read contacts
     - Update
     - Delete
-- (Optional) Ask the user for confirmation before deleting a contact. We recommend wsing a Modal component for this.
+- (Optional) Ask the user for confirmation before deleting a contact. We recommend using a Modal component for this.
 
 All functionalities must be implemented under the concept of Context.API.
 
